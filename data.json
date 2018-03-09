@@ -1,0 +1,132 @@
+{
+    "Discord" : [
+        {
+            "IncludeReplyToUser" : false,
+            "IncludeRetweet" : false,
+            "IncludeUserReply" : false,
+            "twitter_ids" : [
+                "784353971674554368"
+            ],
+            "webhook_urls" : [
+                "https://discordapp.com/api/webhooks/421312582494846987/fUtemn-yr22rd9VSXHdOvBip0PDNWYmjd-4a7xrvrULXk32-NNiIfxFCse9KBmKxDJ1o"
+            ]
+        },
+        {
+            "IncludeReplyToUser" : false,
+            "IncludeRetweet" : false,
+            "IncludeUserReply" : false,
+            "twitter_ids" : [
+                "811265135989886976"
+            ],
+            "webhook_urls" : [
+                "https://discordapp.com/api/webhooks/421314162535301130/lR4e9d2R8AOWnKXoabzys3s625LcHnPnETJ40x3MCmIZgVUvfOI2gb81ngo40Tc89n-r"
+            ]
+        },
+        {
+            "IncludeReplyToUser" : false,
+            "IncludeRetweet" : false,
+            "IncludeUserReply" : false,
+            "twitter_ids" : [
+                "761431536235229185"
+            ],
+            "webhook_urls" : [
+                "https://discordapp.com/api/webhooks/421314485140324363/pDvF8lFfrOXxIm50nVl7m2KhALjm9elyqV4dHYOE339YWEGQ0h01uHQqzaHl388ebARV"
+            ]
+        },
+        {
+            "IncludeReplyToUser" : false,
+            "IncludeRetweet" : false,
+            "IncludeUserReply" : false,
+            "twitter_ids" : [
+                "835342762434260992"
+            ],
+            "webhook_urls" : [
+                "https://discordapp.com/api/webhooks/421286120282652712/f1gkht1gkritQ6-SfT0MM1g3tji6VcFE1BOsa5NmHMpE1TOYe0RB9WYpUye_k9yUCbDv"
+            ]
+        },
+        {
+            "IncludeReplyToUser" : false,
+            "IncludeRetweet" : false,
+            "IncludeUserReply" : false,
+            "twitter_ids" : [
+                "856905595189776384"
+            ],
+            "webhook_urls" : [
+                "https://discordapp.com/api/webhooks/421290264015929344/_dLLsh7w_NkSsGDBzgctPvAsS2uIaj3jDYfEIa_qyExOecVGnw7omVAZWupvhF7ByRBj"
+            ]
+        },
+        {
+            "IncludeReplyToUser" : false,
+            "IncludeRetweet" : false,
+            "IncludeUserReply" : false,
+            "twitter_ids" : [
+                "843459356582707200"
+            ],
+            "webhook_urls" : [
+                "https://discordapp.com/api/webhooks/421312083230195713/tHpyfHDyRipMzPHESSvPXgWXkyhcp_JU3onrkNS8Aw7vcGJEIVsQ2EzAahJY_SHNAXGM"
+            ]
+        },
+        {
+            "IncludeReplyToUser" : false,
+            "IncludeRetweet" : false,
+            "IncludeUserReply" : false,
+            "twitter_ids" : [
+                "933349338075549696"
+            ],
+            "webhook_urls" : [
+                "https://discordapp.com/api/webhooks/421313207739744266/8bd5t5SAzMYi4eLIsN6HalTggBrOXlQz5WcUkuVLxD8Cl6vfyWcc_bsfvQwXOC5IePqq"
+            ]
+        },
+        {
+            "IncludeReplyToUser" : false,
+            "IncludeRetweet" : false,
+            "IncludeUserReply" : false,
+            "twitter_ids" : [
+                "837234225715818497"
+            ],
+            "webhook_urls" : [
+                "https://discordapp.com/api/webhooks/421313207739744266/8bd5t5SAzMYi4eLIsN6HalTggBrOXlQz5WcUkuVLxD8Cl6vfyWcc_bsfvQwXOC5IePqq"
+            ]
+        },
+        {
+            "IncludeReplyToUser" : false,
+            "IncludeRetweet" : false,
+            "IncludeUserReply" : false,
+            "twitter_ids" : [
+                "821741542964609024"
+            ],
+            "webhook_urls" : [
+                "https://discordapp.com/api/webhooks/421311484052897792/Svl26El65HqjUkSVeVfX2a-HQhIEIk8cfNh33eXo9C-T7A9pznHiTkPQQwrNgMsXW6xh"
+            ]
+        },
+        {
+            "IncludeReplyToUser" : false,
+            "IncludeRetweet" : false,
+            "IncludeUserReply" : false,
+            "twitter_ids" : [
+                "940569778921422848"
+            ],
+            "webhook_urls" : [
+                "https://discordapp.com/api/webhooks/421688425989537802/Y4CigVJIZNcQLuhQv1wX2HT21AId28NZHUU_jqPmluwyeFgUE7VBukqwys15W92ghABw"
+            ]
+        },
+        {
+            "IncludeReplyToUser" : false,
+            "IncludeRetweet" : false,
+            "IncludeUserReply" : false,
+            "twitter_ids" : [
+                "952025522778783745"
+            ],
+            "webhook_urls" : [
+                "https://discordapp.com/api/webhooks/421688975544287242/3uHwzvuh-CpLMohvDjYtQeY0yGK7tCXpwIqbaUELHYUV84JjWbEb8OOKARbyJDhD2v37"
+            ]
+        }
+    ],
+    "Twitter" : {
+        "access_token" : "758619812927004672-uASmHfzqg0BdD1MhlHMERjuj6vgaLgT",
+        "access_token_secret" : "YwS6Q2YZadBV3uWSBXgU4bfUHT7HIqKAG9nQKZHIsF7HE",
+        "consumer_key" : "Dyn9JpNX8DU9vlaKDS3CkoHI9",
+        "consumer_secret" : "DQFomVzY3Ywt1a3W2F4bmibXmD13raMPREai7ZVIiY6mKnuqxX"
+    },
+    "twitter_ids" : []
+}
